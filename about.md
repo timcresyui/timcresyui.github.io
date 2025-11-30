@@ -19,8 +19,6 @@ Not necessarily the IMO Gold Medalist you are hoping for but definitely is the o
 - Master's Degree, Political Economy, New York University (Dropped out due to admission to Columbia);
 - Bachelor's Degree, Political Science, University of Hong Kong 
 
-Some awards, some scholarships, and graduated with First-class Honors.
-
 ## Focus Areas
 - Signal Research
 - Math Modelling
