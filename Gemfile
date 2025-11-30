@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.3.9"
+ruby "3.3.10"
 
 gem "jekyll", "~> 4.3.3"
 gem "webrick", "~> 1.8" # for local `jekyll serve`
