@@ -12,7 +12,7 @@ layout: default
 <div class="grid">
   <div class="card">
     <h3>My Repository</h3>
-    <p><a href="https://github.com/resyui/resyui.github.io">View on GitHub</a></p>
+    <p><a href="https://github.com/resyui/">View on GitHub</a></p>
   </div>
   <div class="card">
     <h3>Market Notes</h3>
