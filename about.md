@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 ## About Me
-From a political science major to discovering math and science in its very own form.   
-Not necessarily the IMO Gold Medalist you are hoping for but definitely is the one that always stays in the game.
+Discovering signals in its own form with math and science.   
 
 ## Work Experience
 - Quant Strats @ Hong Kong based Proprietary Trading Firm;
@@ -16,19 +15,19 @@ Not necessarily the IMO Gold Medalist you are hoping for but definitely is the o
 
 ## Education
 - Master's Degree, Statistics, Columbia University;
-- Master's Degree, Political Economy, New York University (Dropped out due to admission to Columbia);
+- Master's Degree, Political Economy, New York University (Dropped out for Columbia's degree);
 - Bachelor's Degree, Political Science, University of Hong Kong 
 
 ## Focus Areas
-- Signal Research
+- Signal Processing
 - Math Modelling
 - Statistical Learning
 - Systematic Trading
 
 ## Current Interests
-- Game theoretical models on market interactions
+- Game theoretical models and agent-based learning
 - Deep learning market microstructure
    
 ## Contact
-- My project codes are on [GitHub](https://github.com/resyui)
+- My project codes are on [GitHub](https://github.com/timcresyui)
 - My email is at [firstname].[lastname]@[stern].[nyu].[edu]
