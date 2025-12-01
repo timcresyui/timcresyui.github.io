@@ -122,9 +122,13 @@ a:hover { color: var(--accent-hover); }
   display: grid;
   gap: var(--gap);
   margin-top: 2.2rem;
+  grid-template-columns: 1fr; /* Single column by default */
+}
+@media (min-width: 480px) {
+  .grid { grid-template-columns: repeat(2, 1fr); } /* 2 columns on tablets */
 }
 @media (min-width: 720px) {
-  .grid { grid-template-columns: repeat(auto-fill,minmax(240px,1fr)); }
+  .grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); } /* Flexible on desktop */
 }
 
 .card {
