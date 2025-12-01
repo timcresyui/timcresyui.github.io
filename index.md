@@ -16,10 +16,12 @@ layout: default
     <h3><a href="/blog/">Market Note</h3>
     <p>Thoughts on what I have seen in the market.</a></p>
   </div>
+      
   <div class="card">
     <h3><a href="/projects/trading-research/">Trading Research</h3>
     <p>System development, alpha research, reverse engineering.</a></p>
   </div>
+      
   <div class="card">
     <h3><a href="/projects/tools-and-agents/">Other Works</h3>
     <p>Experimenting various tools and agents, including LLM and automations.</a></p>
