@@ -12,20 +12,18 @@ layout: default
 </div>
 
 <div class="grid">
-  
   <div class="card">
-    <h3><a href="/blog/">Market Note</h3>
-    <p>Thoughts on what I have seen in the market.</a></p>
+    <h3><a href="/blog/">Market Note</a></h3>
+    <p>Thoughts on what I have seen in the market.</p>
   </div>
       
   <div class="card">
-    <h3><a href="/projects/trading-research/">Trading Research</h3>
-    <p>System development, alpha research, reverse engineering.</a></p>
+    <h3><a href="/projects/trading-research/">Trading Research</a></h3>
+    <p>System development, alpha research, reverse engineering.</p>
   </div>
       
   <div class="card">
-    <h3><a href="/projects/tools-and-agents/">Other Works</h3>
-    <p>Experimenting various tools and agents, including LLM and automations.</a></p>
+    <h3><a href="/projects/tools-and-agents/">Other Works</a></h3>
+    <p>Experimenting various tools and agents, including LLM and automations.</p>
   </div>
-      
 </div>
