@@ -13,15 +13,15 @@ layout: default
 
 <div class="grid">
   <div class="card">
-    <h3>Market Note</h3>
-    <p><a href="/blog/">Thoughts on what I have seen in the market.</a></p>
+    <h3><a href="/blog/">Market Note</h3>
+    <p>Thoughts on what I have seen in the market.</a></p>
   </div>
   <div class="card">
-    <h3>Trading Research</h3>
-    <p><a href="/projects/trading-research/">System development, alpha research, reverse engineering.</a></p>
+    <h3><a href="/projects/trading-research/">Trading Research</h3>
+    <p>System development, alpha research, reverse engineering.</a></p>
   </div>
   <div class="card">
-    <h3>Other Works</h3>
-    <p><a href="/projects/tools-and-agents/">Experimenting various tools and agents, including LLM and automations.</a></p>
+    <h3><a href="/projects/tools-and-agents/">Other Works</h3>
+    <p>Experimenting various tools and agents, including LLM and automations.</a></p>
   </div>
 </div>
