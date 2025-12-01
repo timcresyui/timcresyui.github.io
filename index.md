@@ -12,6 +12,7 @@ layout: default
 </div>
 
 <div class="grid">
+  
   <div class="card">
     <h3><a href="/blog/">Market Note</h3>
     <p>Thoughts on what I have seen in the market.</a></p>
@@ -26,4 +27,5 @@ layout: default
     <h3><a href="/projects/tools-and-agents/">Other Works</h3>
     <p>Experimenting various tools and agents, including LLM and automations.</a></p>
   </div>
+      
 </div>
