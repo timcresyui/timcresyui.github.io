@@ -26,7 +26,7 @@ Discovering signals in its own form with math and science.
 
 ## Current Interests
 - Game theoretical models and agent-based learning
-- Deep learning market microstructure
+- Market microstructure
    
 ## Contact
 - My project codes are on [GitHub](https://github.com/timcresyui)
